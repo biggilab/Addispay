@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Addispay</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="Username_email">Username/email</string>
+    <string name="password">Passwords</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+</resources>
