@@ -55,7 +55,7 @@ public class Login extends ActionBarActivity {
                 else
                 {
                     Toast.makeText(getApplicationContext(),
-                            "Email and Password field are empty", Toast.LENGTH_SHORT).show();
+                            "Email and Password field are empty!", Toast.LENGTH_SHORT).show();
                 }
             }
         });
